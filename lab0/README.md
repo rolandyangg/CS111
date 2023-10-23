@@ -17,6 +17,7 @@ Upon running this on my VM, my /proc/count contained the singular integer "138".
 ## Cleaning Up
 ```shell
 sudo rmmod proc_count
+make clean
 ```
 
 ## Testing
