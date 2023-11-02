@@ -340,9 +340,9 @@ main (int argc, char *argv[])
   for (int i = 0; i < ps.nprocesses; i++) {
     total_wait_time += ps.process[i].waiting_time;
     total_response_time += ps.process[i].response_time;
-    printf("%d %d %d\n", ps.process[i].pid, ps.process[i].waiting_time, ps.process[i].response_time);
+    // printf("%d %d %d\n", ps.process[i].pid, ps.process[i].waiting_time, ps.process[i].response_time);
   }
-  printf("Final time: %d\n", time); // remove later
+  // printf("Final time: %d\n", time); // remove later
   /* End of "Your code here" */
 
   printf ("Average wait time: %.2f\n",
