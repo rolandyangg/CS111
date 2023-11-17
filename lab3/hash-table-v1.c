@@ -6,6 +6,7 @@
 #include <sys/queue.h>
 
 #include <pthread.h>
+#include <errno.h>
 
 struct list_entry {
 	const char *key;
