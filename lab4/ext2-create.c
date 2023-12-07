@@ -246,8 +246,6 @@ void write_superblock(int fd) {
 	superblock.s_def_resuid        = EXT2_DEF_RESUID; /* root */ // 0 is default
 	superblock.s_def_resgid        = EXT2_DEF_RESGID; /* root */ // 0 is default
 
-	/* You can leave everything below this line the same, delete this
-	   comment when you're done the lab */
 	superblock.s_uuid[0] = 0x5A;
 	superblock.s_uuid[1] = 0x1E;
 	superblock.s_uuid[2] = 0xAB;
@@ -544,7 +542,7 @@ void write_hello_world_file_block(int fd)
 		errno_exit("lseek");
 	}
 
-	char content[] = "Hello world!";
+	char content[] = "Hello world\n";
 	ssize_t size = sizeof(content);
 	if (write(fd, content, size) != size) {
 		errno_exit("write");                       
