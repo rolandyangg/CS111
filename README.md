@@ -1,4 +1,4 @@
-My work for UCLA's CS111: Operating Systems Principles in Fall Quarter 2023: [https://web.cs.ucla.edu/classes/fall23/cs111/](https://web.cs.ucla.edu/classes/fall23/cs111/)
+My work for UCLA's CS111 (Operating Systems Principles) in Fall Quarter 2023: [https://web.cs.ucla.edu/classes/fall23/cs111/](https://web.cs.ucla.edu/classes/fall23/cs111/)
 
 | Assignment  | Grade | Comments |
 | ------------- | ------------- | ------------- |
