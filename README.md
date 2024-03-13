@@ -3,10 +3,10 @@ My work for UCLA's CS111 (Operating Systems Principles) in Fall Quarter 2023: [h
 | Assignment  | Grade | Comments |
 | ------------- | ------------- | ------------- |
 | Lab 0 | 100 |
-| Lab 1 | 99 |
+| Lab 1 | 99 | Late penalty
 | Lab 2 | 39 | was stupid and looked at incorrect output for test cases given on piazza (went by someone's response who had incorrect test case output and wrote my code to fit that)
 | Lab 3 | 92.86 | grading for this lab was a literal mess and depended on what time your code was tested on the SEASnet servers (i got super lucky)
 | Lab 4  | 100 |
 | Report | 100  |
-| Midterm  | 62.35 |
+| Midterm  | 62.35 | Didn't know how to do some stupid coding question involving pipes that took up an entire two pages and lost a bunch of points
 | Final  | 152.1/180 | insane clutch don't think I will ever pull this off again like rank 5 in class
